@@ -257,3 +257,7 @@
 - url: http://simos.github.io/2048/
   name: 2048 Greek Numerals
   author: Simos Xenitellis
+  
+  - url: http://2048game.org/flappy.html
+  name: 2048 Flappy Thirds
+  author: tef
